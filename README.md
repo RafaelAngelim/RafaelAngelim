@@ -28,7 +28,7 @@ A computer science student looking for better programming skills.
 
 <img align="center" alt="RafaelAngelim_vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="RafaelAngelim_vim" height="30" width="40" src="cvim/vim-original.svg">
- <img align= "center" alt="RafaelAngelim_coffee" height="30" width = "40" src = "">
+ 
 
 </div>
 <div>
