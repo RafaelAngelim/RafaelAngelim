@@ -17,17 +17,18 @@ A computer science student looking for better programming skills.
 </h3></i></head>
 <p>
     
-<img align="center" alt="HenriqueFrancaa_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="HenriqueFrancaa_C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="HenriqueFrancaa_Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="RafaelAngelim_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="RafaelAngelim_C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="RafaelAngelim_Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
 <head><i><h3>
   Using the following tools:
 </h3></i></head>
 <p>
 
-<img align="center" alt="HenriqueFrancaa_vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
- <img align="center" alt="HenriqueFrancaa_vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
+<img align="center" alt="RafaelAngelim_vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img align="center" alt="RafaelAngelim_vim" height="30" width="40" src="cvim/vim-original.svg">
+ <img align= "center" alt="RafaelAngelim_coffee" height="30" width = "40" src = "">
 
 </div>
 <div>
