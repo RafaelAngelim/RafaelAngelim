@@ -13,7 +13,7 @@ A computer science student looking for better programming skills.
   
   <div style="display: inline_block"><br>
 <head><i><h3>
-  Using the following languages
+  I use the following:
 </h3></i></head>
 <p>
     
@@ -21,15 +21,6 @@ A computer science student looking for better programming skills.
 <img align="center" alt="RafaelAngelim_C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="RafaelAngelim_Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mySQL" width="40"/>
-
-<head><i><h3>
-  Using the following tools:
-</h3></i></head>
-<p>
-
-<img align="center" alt="RafaelAngelim_vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="RafaelAngelim_vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-
 
 </div>
 <div>
